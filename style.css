@@ -46,3 +46,9 @@ header p{
     z-index: -100;
     margin-left: 68%;
 }
+
+.texto{
+    padding-top: 175px;
+    font-size: 20px;
+    line-height: 35px;
+}
