@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Wheel-IA"
+		},
+		{
+			"path": "../Magma/css"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "TP Etica NiNis"
+	}
+}
